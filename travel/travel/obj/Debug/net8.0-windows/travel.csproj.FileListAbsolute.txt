@@ -1,0 +1,17 @@
+C:\Users\Aytac\source\repos\travel\travel\bin\Debug\net8.0-windows\travel.exe
+C:\Users\Aytac\source\repos\travel\travel\bin\Debug\net8.0-windows\travel.deps.json
+C:\Users\Aytac\source\repos\travel\travel\bin\Debug\net8.0-windows\travel.runtimeconfig.json
+C:\Users\Aytac\source\repos\travel\travel\bin\Debug\net8.0-windows\travel.dll
+C:\Users\Aytac\source\repos\travel\travel\bin\Debug\net8.0-windows\travel.pdb
+C:\Users\Aytac\source\repos\travel\travel\obj\Debug\net8.0-windows\travel.Form1.resources
+C:\Users\Aytac\source\repos\travel\travel\obj\Debug\net8.0-windows\travel.Properties.Resources.resources
+C:\Users\Aytac\source\repos\travel\travel\obj\Debug\net8.0-windows\travel.csproj.GenerateResource.cache
+C:\Users\Aytac\source\repos\travel\travel\obj\Debug\net8.0-windows\travel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aytac\source\repos\travel\travel\obj\Debug\net8.0-windows\travel.AssemblyInfoInputs.cache
+C:\Users\Aytac\source\repos\travel\travel\obj\Debug\net8.0-windows\travel.AssemblyInfo.cs
+C:\Users\Aytac\source\repos\travel\travel\obj\Debug\net8.0-windows\travel.csproj.CoreCompileInputs.cache
+C:\Users\Aytac\source\repos\travel\travel\obj\Debug\net8.0-windows\travel.dll
+C:\Users\Aytac\source\repos\travel\travel\obj\Debug\net8.0-windows\refint\travel.dll
+C:\Users\Aytac\source\repos\travel\travel\obj\Debug\net8.0-windows\travel.pdb
+C:\Users\Aytac\source\repos\travel\travel\obj\Debug\net8.0-windows\travel.genruntimeconfig.cache
+C:\Users\Aytac\source\repos\travel\travel\obj\Debug\net8.0-windows\ref\travel.dll
